@@ -4,7 +4,9 @@
 
 A website for the search engine optimization tools for other businesses.
 
-###
+### Links
+- [Horiseons-Git-Page](https://zunaty.github.io/Horiseon/)
+- [Screenshot](./assets/images/screenshot.png)
 
 #### Updates
 
